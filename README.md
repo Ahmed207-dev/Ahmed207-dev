@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Hamdy 
 
-<!--
-**Ahmed207-dev/Ahmed207-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Frontend Web Developer
+Passionate about crafting modern, responsive, and high-performance web applications with **React.js**, **Next.js**, and **TypeScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frontend Frameworks & Libraries:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap
+- **Tools & Workflow:** Git, GitHub, Vercel, REST APIs
+
+---
+
+###  Education
+-  **Business Information Systems (BIS)** — Tanta University
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-hamdy-74b67a438/
+- 📧 **Email:** ahmedhamdy20702@gmail.com
