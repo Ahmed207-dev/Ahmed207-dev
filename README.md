@@ -17,6 +17,6 @@ Passionate about crafting modern, responsive, and high-performance web applicati
 
 ---
 
-### 📫 Connect with Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-hamdy-74b67a438/
-- 📧 **Email:** ahmedhamdy20702@gmail.com
+###  Connect with Me
+-  **LinkedIn:** https://www.linkedin.com/in/ahmed-hamdy-74b67a438/
+-  **Email:** ahmedhamdy20702@gmail.com
